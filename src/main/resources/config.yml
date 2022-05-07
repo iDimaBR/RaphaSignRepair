@@ -1,0 +1,15 @@
+LineToCreateSign: "[Reparar]"
+RepairCost: 5000
+Sign:
+  Line1: "&c[Reparar]"
+  Line2: "&eClique para"
+  Line3: "&ereparar"
+  Line4: ""
+Message:
+  Repair: "&aVocê pagou &f%cost% &apara reparar seu item."
+  NotReparable: "&cEsse item não pode ser reparado."
+  FullRepair: "&cEsse item não precisa ser reparado no momento."
+  NotMoney: "&cVocê não tem &f%cost% &cpara reparar."
+Sound:
+  Success: "ANVIL_LAND"
+  Error: "VILLAGER_NO"

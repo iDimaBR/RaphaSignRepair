@@ -1,0 +1,5 @@
+name: RaphaSignRepair
+version: '${project.version}'
+main: com.github.idimabr.raphasignrepair.RaphaSignRepair
+prefix: RaphaSignRepair
+authors: [ iDimaBR ]
